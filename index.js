@@ -63,7 +63,7 @@ async function run() {
           taste: updeteCoffee.taste,
           cetegory: updeteCoffee.cetegory,
           details: updeteCoffee.details,
-          photo: updeteCoffee.phoot,
+          photo: updeteCoffee.photo,
         },
       };
 
